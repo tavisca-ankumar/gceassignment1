@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="10" class="java.beans.XMLDecoder">
+ <array class="Employee" length="5">
+  <void index="0">
+   <object class="Employee">
+    <void property="dept">
+     <string>vailla</string>
+    </void>
+    <void property="empId">
+     <int>1</int>
+    </void>
+    <void property="empName">
+     <string>anoop</string>
+    </void>
+    <void property="hobbies">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>eat</string>
+      </void>
+      <void index="1">
+       <string>sleep</string>
+      </void>
+      <void index="2">
+       <string>repeat</string>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="1">
+   <object class="Employee">
+    <void property="dept">
+     <string>vailla</string>
+    </void>
+    <void property="empId">
+     <int>2</int>
+    </void>
+    <void property="empName">
+     <string>akshay</string>
+    </void>
+    <void property="hobbies">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>eat</string>
+      </void>
+      <void index="1">
+       <string>sleep</string>
+      </void>
+      <void index="2">
+       <string>repeat</string>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="2">
+   <object class="Employee">
+    <void property="dept">
+     <string>vailla</string>
+    </void>
+    <void property="empId">
+     <int>3</int>
+    </void>
+    <void property="empName">
+     <string>rajat</string>
+    </void>
+    <void property="hobbies">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>eat</string>
+      </void>
+      <void index="1">
+       <string>sleep</string>
+      </void>
+      <void index="2">
+       <string>repeat</string>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="3">
+   <object class="Employee">
+    <void property="dept">
+     <string>vailli</string>
+    </void>
+    <void property="empId">
+     <int>2</int>
+    </void>
+    <void property="empName">
+     <string>shirin</string>
+    </void>
+    <void property="hobbies">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>eat</string>
+      </void>
+      <void index="1">
+       <string>sleep</string>
+      </void>
+      <void index="2">
+       <string>repeat</string>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+  <void index="4">
+   <object class="Employee">
+    <void property="dept">
+     <string>vailli</string>
+    </void>
+    <void property="empId">
+     <int>1</int>
+    </void>
+    <void property="empName">
+     <string>shivani</string>
+    </void>
+    <void property="hobbies">
+     <array class="java.lang.String" length="3">
+      <void index="0">
+       <string>eat</string>
+      </void>
+      <void index="1">
+       <string>sleep</string>
+      </void>
+      <void index="2">
+       <string>repeat</string>
+      </void>
+     </array>
+    </void>
+   </object>
+  </void>
+ </array>
+</java>
